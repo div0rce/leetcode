@@ -10,12 +10,6 @@ class Solution {
             }
         }
 
-        // StringBuilder temp = new StringBuilder();
-        // for (int i = notEmpty.length() - 1; i >= 0; i--){
-        //     temp.append(notEmpty.charAt(i));
-        // }
-        // notEmpty = temp.toString();
-
         return notEmpty.length();
     }
 }
